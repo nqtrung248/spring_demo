@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      enabled: true
+  application:
+    name: global-config
+
+server:
+  port: 8080
